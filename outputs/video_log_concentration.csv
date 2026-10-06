@@ -1,0 +1,3 @@
+log_type,observed_videos,total_log_rows,top_1pct_video_row_share,top_10pct_video_row_share
+random,7537,1178025.0,0.012709407695082872,0.11804248636489038
+standard,5830,223513.0,0.17471914385293025,0.6086939014732924
